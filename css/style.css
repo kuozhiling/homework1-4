@@ -1,0 +1,222 @@
+html {
+    background-color: #ffffff;
+    box-sizing: border-box;
+    width: 1280px;
+    height: 2300px;
+ 
+ 
+ }
+ .modern{
+    font-family: Arial black;
+    font-size: 48px;
+    margin-top: 55px;
+    margin-left: 470px;
+    margin-bottom: 12px;
+ }
+ .head{
+   
+    font-size: 18px; 
+
+ }
+
+
+
+ .all:hover{
+    text-decoration:underline;
+ }
+ .all{
+     margin-left: 335px;
+     padding-right: 70px;
+     color: black;
+     text-decoration: none;
+ }
+ .new:hover{
+    text-decoration:underline;
+ }
+.new{
+    padding-right: 70px;
+     color: black;
+     text-decoration: none;
+}
+.hot:hover{
+    text-decoration:underline;
+ }
+.hot{
+    padding-right: 70px;
+     color: black;
+     text-decoration: none;
+}
+.special:hover{
+    text-decoration:underline;
+ }
+.special{
+    color: black;
+     text-decoration: none;
+     margin-right: 195px;
+}
+.right:hover{
+    text-decoration:underline;
+ }
+.right{
+    display: flex;
+    margin-top: 16px;
+}
+.head-one{
+    display: flex;
+   
+}
+.search{
+    margin-right: 23px;
+}
+.star{
+    margin-right: 23px;
+}
+.star-product{
+    margin-left: 530px;
+    font-size: 48px;
+    font-family: Arial black;
+
+}
+.product-photo{
+    display: flex;
+    
+
+}
+.product1{
+    margin-right: 85px;
+    margin-left: 200px;
+    margin-top: 0px;
+    
+}
+
+.product2{
+    margin-right: 85px;
+}
+.more{
+    margin-left: 60px;
+    margin-top: 90px;
+}
+.product-word{
+    display: flex;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 10px;
+}
+.price{
+    display: flex;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 25px;
+    margin-bottom: 50px;
+  
+
+}
+
+.word1{
+    margin-right: 115px;
+    margin-left: 170px;
+    margin-bottom: 5px;
+}
+.word2{
+    margin-right: 115px;
+    
+}
+.price1{
+    margin-left: 235px;
+    margin-top: 0;
+
+}
+.price2{
+    margin-left: 200px;
+    margin-top: 0;
+}
+.price3{
+    margin-left: 200px;
+    margin-top: 0;
+}
+.under-container{
+    
+}
+.back{
+   
+}
+
+.backgroud-container{
+  
+   
+}
+.task{
+    font-size: 24px;
+    font-family:'Noto Sans TC', sans-serif;
+    font-weight: bold;
+    margin-left: 250px;
+    margin-bottom: 0;
+}
+.tool{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: bold;
+    margin-left: 165px;
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.DISCOVER:hover{
+    background-color:black;
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+   
+
+}
+
+.DISCOVER{
+    width: 180px;
+    height: 50px;
+    font-family: Arial black;
+    color: black;
+    font-size: 24px;
+    padding-top: 20px;
+    padding-left: 48px;
+    padding-right: 48px;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    border-style: solid;
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.footer{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.under-left{
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.under-right{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 200px;
+}
+.ABOUTUS{
+    font-size: 32px;
+}
+.FOLLOWUS{
+    font-size: 32px;
+}
+.fbandig{
+    display: flex;
+}
+.facebook{
+    margin-right: 20px;
+}
+.COPYRIGHT{
+    font-size: 10px;
+    margin-top: 83px;
+}
